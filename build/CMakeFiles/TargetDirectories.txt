@@ -1,0 +1,9 @@
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/uninstall.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/fetch-translations.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/test.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/edit_cache.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/rebuild_cache.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/list_install_components.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/install.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/install/local.dir
+/home/raihan/Workspace/coders/macos-desktop-plasma/build/CMakeFiles/install/strip.dir
