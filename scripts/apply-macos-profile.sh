@@ -20,6 +20,7 @@ kwriteconfig6 --file kglobalshortcutsrc --group krunner --key _launch "Meta+Spac
 
 # Mission Control / Overview
 kwriteconfig6 --file kglobalshortcutsrc --group kwin --key ShowDesktop "Meta+D,Meta+D,Show Desktop"
+kwriteconfig6 --file kglobalshortcutsrc --group kwin --key Overview "Meta+Tab,Meta+Tab,Toggle Overview"
 kwriteconfig6 --file kwinrc --group ModifierOnlyShortcuts --key Meta "org.kde.kglobalaccel,/component/kwin,org.kde.kwin,showOverview"
 
 # Hot corners
